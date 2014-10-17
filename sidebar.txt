@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[crq:home|Door43 (crq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-crq|d43-crq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-crq/archive/master.zip|d43-crq.zip]]
+
+**Recent Changes**
+{{changes>ns = crq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/crq|Ethnologue data]]
+
